@@ -7,7 +7,7 @@ public class CodeCheck {
 	int a = 10;
 	int b = 5;
 	int c;
-	
+	 int k = 10000; //adding for gitPush
 	void addition(){
 		int y = 25;
 		c= a+b;
