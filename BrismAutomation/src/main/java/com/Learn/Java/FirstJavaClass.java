@@ -4,11 +4,12 @@ public class FirstJavaClass {
 	int a = 10;
 	int b = 20;
 	
+	
 	void addition(){
 		int c = (a+b);
 		System.out.println(c);
 	}
-	
+		
 	void substraction() {
 		int c =a-b;
 		System.out.println(c);
@@ -24,11 +25,6 @@ public class FirstJavaClass {
 	
 		//ClassName obj = new ClassName();
 		
-		FirstJavaClass object = new FirstJavaClass();
-		
-		object.addition();
-		object.substraction();
-		object.multiplication();
 		
 
 
